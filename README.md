@@ -1,5 +1,7 @@
 # Multimart Ecommerce
 
+Link to access live-  https://multimart-ecommerce.onrender.com/
+
 ## Features
 
 - Fully responsive and mobile friendly
